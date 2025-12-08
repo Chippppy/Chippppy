@@ -23,7 +23,7 @@ I enjoy diving into projects that span different domains:
 
 ---
 
-## 🥸 Tech Stack & Tools
+## 🥸 My Preferred Tech Stack & Tools
 
 <!-- Languages & Frameworks -->
 
