@@ -11,22 +11,6 @@
 
 ---
 
-## 👾 About Me
-
-Hi 👋 I'm Harry, or Chip (hence the username).
-
-I've a background in eCommerce technology roles, mainly specialising in custom process solutions and data based projects. 
-
-Graduated with a Bachelors + Masters in IT & Cyber Security.
-
-Aside from coding and basically all things tech, I'm a big fan of travel and have been lucky enough to visit some amazing places around the world, some of which are showcased in my projects themselves. 
-
-I also enjoy gaming (TFT IYKYK), reading (mostly fiction), and football (⚽), as it's always been a big part of my life.
-
-I'm always interested in new project ideas, so if you think of any that I might find fun to develop, feel free to let me know about them - my contact details are on my portfolio site.
-
----
-
 ## 💻 What I'm Working On
 
 I enjoy diving into projects that span different domains:
@@ -123,27 +107,9 @@ Here are some projects I've enjoyed working on:
 
 ## 🧏‍♂️ Reach Out ^_^
 
-I'm always open to discussing new ideas, collaborations, or just chatting.
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chippppy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harrychipman.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🙉 Fun Fact
-
-*"Idk what I'm doing when I code stuff - I just like when I solve the problems - don't tell anyone I said that."*
-*-H.C.*
-
-*"There's a lot of subtle, little skills involved in a cooperative endeavor to code, kind of like a real skill issue..."*
-*-Prime*
-
-**Thanks for visiting!** 👋
 
 </div>
