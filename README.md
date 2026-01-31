@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 What I'm Working On
+## What I'm Working On
 
 I enjoy diving into projects that span different domains:
 
@@ -23,7 +23,7 @@ I enjoy diving into projects that span different domains:
 
 ---
 
-## 🥸 My Preferred Tech Stack & Tools
+## My Preferred Tech Stack & Tools
 
 <!-- Languages & Frameworks -->
 
@@ -77,39 +77,19 @@ I enjoy diving into projects that span different domains:
 
 ---
 
-## 📋 Featured Projects
+## Featured Projects
 
 Here are some projects I've enjoyed working on:
 
-### 🔐 Security & Backend
+### Security & Backend
 - **AuthSecurity** - Django REST Framework backend with secure authentication, email validation, session management, and 2FA (TOTP)
 - **FileAnalyser** - Python-based malware detection tool using signature-based analysis, PE file parsing, and VirusTotal API integration
 - **NetworkIDS** - Python IDS that monitors network traffic to detect suspicious activities and potential security breaches
 
-### 🌐 Web Development
+### Web Development
 - **TeraRaidCalc** - TypeScript web app for strategizing Pokémon Tera Raid Battles by comparing types and base stats
 - **Portfolio Website** - Responsive single-page portfolio showcasing projects and experience
 - **Japan Trip Travel Website** - Static site documenting travels with city pages, galleries, and personal stories
 
-### 🎮 Game Development
+### Game Development
 - **Pure JavaScript Pong!** - My first programming project: a classic Pong game recreation using vanilla JavaScript
-
----
-
-## 🤓 What I Love About Programming
-
-- **Problem Solving**: Breaking down complex challenges into manageable pieces
-- **Continuous Learning**: Every project introduces new concepts and techniques (and a Javascript framework 😉)
-- **Creativity**: Finding solutions to tough, complex problems
-- **Impact**: Building tools that people actually use and find helpful
-
----
-
-## 🧏‍♂️ Reach Out ^_^
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chippppy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harrychipman.com)
-
-</div>
